@@ -6,9 +6,7 @@
     padding: 0;
 }
 
-html {
-    font-size: 62.5%; /* 1rem = 10px */
-}
+
 
 :root {
     --first-color: #fbf2db;
@@ -39,4 +37,10 @@ div.container{
 }
 div.container:hover{
     box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
+}
+
+header h1{
+    color:#fbf2db;
+    font-size: x-large;
+    padding: 1.8rem;
 }
