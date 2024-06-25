@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 62.5%;
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --first-color: fbf2db;
+}
+
+body {
+    background-image: url('assets/BG/vecteezy_abstract-background_268246.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+
+    
+}
