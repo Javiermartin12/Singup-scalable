@@ -44,3 +44,8 @@ header h1{
     font-size: x-large;
     padding: 1.8rem;
 }
+.-large{
+    background: #ffffff;
+    height: 80%;
+    width: 50%;
+}
