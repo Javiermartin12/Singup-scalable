@@ -1,0 +1,20 @@
+@import url('CSS/global.css');
+@import url('CSS/variables/root.css');
+@import url('CSS/layout/layout.css');
+
+body {
+background-image: url('assets/BG/vecteezy_abstract-background_268246.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+
+
