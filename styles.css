@@ -5,6 +5,8 @@
 @import url('CSS/pages/preLogin.css');
 @import url('CSS/pages/userDataLogin.css');
 @import url('CSS/pages/userLocationLogin.css');
+@import url('CSS/components/button.css');
+@import url('CSS/components/input.css');
 body {
 background-image: url('assets/BG/vecteezy_abstract-background_268246.jpg');
     background-size: cover;
