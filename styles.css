@@ -7,6 +7,7 @@
 @import url('CSS/pages/userLocationLogin.css');
 @import url('CSS/components/button.css');
 @import url('CSS/components/input.css');
+
 body {
 background-image: url('assets/BG/vecteezy_abstract-background_268246.jpg');
     background-size: cover;
@@ -15,6 +16,7 @@ background-image: url('assets/BG/vecteezy_abstract-background_268246.jpg');
     margin: 0;
     height: 100vh;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
 
