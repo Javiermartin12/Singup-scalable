@@ -2,9 +2,11 @@
 @import url('CSS/variables/root.css');
 @import url('CSS/layout/layout.css');
 @import url('CSS/pages/main.css');
-@import url('CSS/pages/l.css');
-@import url('CSS/pages/userDataLogin.css');
-@import url('CSS/pages/userLocationLogin.css');
+@import url('CSS/pages/profile.css');
+@import url('CSS/pages/addres.css');
+@import url('CSS/pages/shipping.css');
+@import url('CSS/pages/finish.css');
+@import url('CSS/pages/thankyou.css');
 @import url('CSS/components/button.css');
 @import url('CSS/components/input.css');
 
