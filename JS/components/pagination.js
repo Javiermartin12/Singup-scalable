@@ -1,16 +1,16 @@
- export const pagination = () => {
+export const pagination = () => {
+    const nextButton = document.getElementById('nextPageMain');
+    const backButton = document.getElementById('backPage');
+    const mainPage = document.getElementsByClassName('--main');
 
-const nextButton = document.querySelectorAll('[data-next]')
-const backButton = document.getElementById('backPage')
-const mainPage = document.getElementsByClassName('--main')
-if (nextButton) {
-    nextButton.addEventListener('click', handleClickNextPage);
-}
+    if (nextButton) {
+        nextButton.addEventListener('click', () => {
 
+        });
+    }
 
- const handleClickNextPage = ()  => {
-    alert('Button was clicked!');
-    console.log('button on')
-}
-nextButton.addEventListener('click', handleClickNextPage)
- }
+    function handleClickNextPage() {
+        alert('Button was clicked!');
+        console.log('Button clicked');
+    }
+};
